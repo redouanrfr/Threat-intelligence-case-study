@@ -595,7 +595,7 @@ La menace pesant sur l’actif stratégique de cette infrastructure ne relève p
 | 2025  |                                 | Synthèse ONAF                  |                            |                              |
 
 **L'infrastructure au cœur du cyclone :** Cette infrastructure ne subit pas une simple série d'incidents isolés, mais une pression multidimensionnelle (Sources de Risques SR) coordonnée. Point de convergence unique entre : Grand Banditisme (braquages valeur faciale), Cybercriminalité d'État (APT, espionnage), Réseaux de Fraude Physiques (titres comme monnaie + blanchiment). Objectif Visés OV = actif stratégique.
-
+![Timeline](assets/timeline_pression_multidim.svg)
 ---
 
 ## 🏰 L'Architecture Défensive
